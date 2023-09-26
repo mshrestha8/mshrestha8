@@ -1,4 +1,6 @@
 ### Hi there 👋
+Manik Shrestha
+OPS445
 
 <!--
 **mshrestha8/mshrestha8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
